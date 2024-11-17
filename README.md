@@ -7,3 +7,4 @@
 * [Harjoitus 2b](https://github.com/Lomri/olio-ohjelmointi/tree/main/H2b) (Luokka ja olio)
 * [Harjoitus 3a](https://github.com/Lomri/olio-ohjelmointi/tree/main/H3a) (Perintä)
 * [Harjoitus 3b](https://github.com/Lomri/olio-ohjelmointi/tree/main/H3b) (Perintä)
+* [Harjoitus 4](https://github.com/Lomri/olio-ohjelmointi/tree/main/H4) (Kompositio)
