@@ -9,3 +9,5 @@
 * [Harjoitus 3b](https://github.com/Lomri/olio-ohjelmointi/tree/main/H3b) (Perintä)
 * [Harjoitus 4](https://github.com/Lomri/olio-ohjelmointi/tree/main/H4) (Kompositio)
 * [Harjoitus 5](https://github.com/Lomri/olio-ohjelmointi/tree/main/H5) (Assosiaatio, aggregaatio)
+* [Harjoitus 6a](https://github.com/Lomri/olio-ohjelmointi/tree/main/H6a) (Qt-konsolisovellus)
+* [Harjoitus 6b](https://github.com/Lomri/olio-ohjelmointi/tree/main/H6b) (Qt-konsolisovellus)
