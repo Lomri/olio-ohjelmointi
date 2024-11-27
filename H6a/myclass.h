@@ -21,4 +21,4 @@ public slots:
     void mySlot();
 };
 
-#endif // MYCLASS_H
+#endif
