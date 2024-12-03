@@ -11,3 +11,4 @@
 * [Harjoitus 5](https://github.com/Lomri/olio-ohjelmointi/tree/main/H5) (Assosiaatio, aggregaatio)
 * [Harjoitus 6a](https://github.com/Lomri/olio-ohjelmointi/tree/main/H6a) (Qt-konsolisovellus)
 * [Harjoitus 6b](https://github.com/Lomri/olio-ohjelmointi/tree/main/H6b) (Qt-konsolisovellus)
+* [Harjoitus 7](https://github.com/Lomri/olio-ohjelmointi/tree/main/H7) (Qt-Widget sovellus)
